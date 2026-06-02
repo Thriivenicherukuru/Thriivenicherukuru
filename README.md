@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Thriveni Cherukuru
 
-<!--
-**Thriivenicherukuru/Thriivenicherukuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | SQL | Python | Power BI | Azure | AWS
 
-Here are some ideas to get you started:
+I am a Data Analyst with 3+ years of experience building ETL pipelines, predictive analytics solutions, KPI dashboards, and healthcare analytics systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- SQL
+- Python
+- Power BI
+- Tableau
+- AWS
+- Azure
+- Machine Learning
+- ETL Pipelines
+- Data Governance
+- Oracle SQL
+- PostgreSQL
+
+### Projects
+
+🔹 Healthcare Claims Data Quality Monitoring
+
+🔹 Executive KPI Dashboard
+
+🔹 Demand Forecasting Model
+
+🔹 ETL Pipeline Development
+
+### Education
+
+🎓 MS Information Technology
+Webster University
+
+### Connect
+
+LinkedIn:
+www.linkedin.com/in/thrivenic
+
+Email:
+Thriveni.C098@outlook.com
