@@ -40,3 +40,9 @@ www.linkedin.com/in/thrivenic
 
 Email:
 Thriveni.C098@outlook.com
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thriivenicherukuru&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thriivenicherukuru&layout=compact)
